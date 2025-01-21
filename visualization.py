@@ -20,7 +20,7 @@ def plot_expenses_by_category(expenses):
     )
     ax.set_title("Expense Distribution by Category")
 
-    # Display in Streamlit
+    # Displays in Streamlit
     st.pyplot(fig)
 
 # Bar chart: Expenses per day
