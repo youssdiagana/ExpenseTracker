@@ -100,6 +100,3 @@ A simple and interactive web app built with **Streamlit** that lets you log, man
 
     ---
 
-    ## License
-
-    This project is open source and available under the [MIT License](LICENSE).
