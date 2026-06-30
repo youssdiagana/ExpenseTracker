@@ -1,6 +1,6 @@
 # 💸 Expense Tracker
 
-A simple and interactive web app built with **Streamlit** that lets you log, manage, and visualize your daily expenses by category.
+A simple and interactive web app built with a **Streamlit** interface that lets you log, manage, and visualize your daily expenses by category.
 
 🔗 **Live Demo:** [expensetrackerbyyouss.streamlit.app](https://expensetrackerbyyouss.streamlit.app/)
 
